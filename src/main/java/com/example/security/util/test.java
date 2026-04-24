@@ -2,6 +2,7 @@ package com.example.security.util;
 
 public class test {
     public void m1(){
+        System.out.println("Hey I am from branch 1");
         System.out.println("m1 method");
     }
      public void m2(){
